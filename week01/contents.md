@@ -1,4 +1,4 @@
-# Week 01 plan and reading
+# Week 01
 
 * Introductions, expectations, and goals
 * Designing a simple data structure
